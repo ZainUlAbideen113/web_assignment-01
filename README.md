@@ -4,4 +4,5 @@ This is a simple backend-only To-Do List application built using Node.js and Exp
 
 ## How to Run
 1. Install Node.js from [https://nodejs.org](https://nodejs.org)
-2. In terminal install the necessary things like expre
+2. In terminal install the necessary things like express.
+3. Use Postman to test API at `http://localhost:3000`.
